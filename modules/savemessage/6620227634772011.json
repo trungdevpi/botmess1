@@ -1,0 +1,44 @@
+{
+    "100065982721873": [
+        {
+            "type": "message",
+            "message": "/nasa Hà Nội",
+            "time": "24/10/2024 22:15:45",
+            "attachment": []
+        }
+    ],
+    "100018277053087": [
+        {
+            "type": "message",
+            "message": ".menu",
+            "time": "24/10/2024 22:18:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".boxnoname",
+            "time": "24/10/2024 22:19:08",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": ".setname bot",
+            "time": "24/10/2024 22:19:27",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": ".gỡ",
+            "time": "24/10/2024 22:19:52",
+            "attachment": []
+        }
+    ],
+    "100084572676748": [
+        {
+            "type": "message",
+            "message": "bot đix",
+            "time": "24/10/2024 22:40:08",
+            "attachment": []
+        }
+    ]
+}

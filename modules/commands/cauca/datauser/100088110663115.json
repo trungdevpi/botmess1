@@ -1,0 +1,109 @@
+{
+  "name": "VGia Han",
+  "ID": "100088110663115",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Safe Shallows"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 9,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 10,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 11,
+      "name": "Crashfish",
+      "category": "Uncommon",
+      "size": 28,
+      "sell": 350,
+      "image": "https://i.imgur.com/qrU1J3y.png"
+    },
+    {
+      "ID": 12,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 13,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 14,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 10,
+      "countdown": 300,
+      "countdownData": 1673022189470,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1780,
+      "countdown": 15,
+      "countdownData": 1673115127625,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "00:09:58, 6/1/2023"
+}

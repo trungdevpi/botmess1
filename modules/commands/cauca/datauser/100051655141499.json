@@ -1,0 +1,45 @@
+{
+  "name": "Lê Huy Học",
+  "ID": "100051655141499",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Inactive Lava Zone – Lava Lake"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 10,
+      "countdown": 300,
+      "countdownData": 1673005316842,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 30,
+      "countdown": 180,
+      "countdownData": 1673005865502,
+      "image": "https://i.imgur.com/mptiizn.png"
+    },
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 50,
+      "countdown": 150,
+      "countdownData": 1673006867670,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1470,
+      "countdown": 15,
+      "countdownData": 1673102262294,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "12:29:24, 6/1/2023"
+}

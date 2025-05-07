@@ -1,0 +1,101 @@
+{
+  "name": "Chu Ngọc Kiều Việt",
+  "ID": "100087265449925",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Inactive Lava Zone – Lava Lake"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 42,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 43,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 50,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 54,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 55,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 57,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 59,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 60,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 0,
+      "countdown": 300,
+      "countdownData": 1673017869628,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59270,
+      "countdown": 5,
+      "countdownData": 1673455161499,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "18:08:00, 6/1/2023"
+}

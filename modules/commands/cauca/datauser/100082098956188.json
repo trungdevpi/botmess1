@@ -1,0 +1,109 @@
+{
+  "name": "Văn Hải Ninh",
+  "ID": "100082098956188",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Inactive Lava Zone – Lava Lake"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 2,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 3,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 4,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 5,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 6,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 7,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 8,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 9,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 10,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59890,
+      "countdown": 5,
+      "countdownData": 1675604971338,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "20:42:25, 5/2/2023"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Nhật Huy",
+  "ID": "100073345031080",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Inactive Lava Zone – Lava Lake"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1850,
+      "countdown": 15,
+      "countdownData": 1675099202237,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 58510,
+      "countdown": 5,
+      "countdownData": 1675532622545,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "00:04:23, 31/1/2023"
+}

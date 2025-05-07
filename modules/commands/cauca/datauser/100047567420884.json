@@ -1,0 +1,422 @@
+{
+  "name": "Nguyên Khoa Lê",
+  "ID": "100047567420884",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Sparse Arctic  "
+  },
+  "fishBag": [
+    {
+      "ID": 1,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 2,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 3,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 4,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 5,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 6,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 9,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 10,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 11,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 12,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 13,
+      "name": "Blood Crawler",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 500,
+      "image": "https://i.imgur.com/QKrzlCr.png"
+    },
+    {
+      "ID": 14,
+      "name": "Blood Crawler",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 500,
+      "image": "https://i.imgur.com/QKrzlCr.png"
+    },
+    {
+      "ID": 15,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 16,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 17,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 18,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 20,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 22,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 23,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 24,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 26,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 27,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 28,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 29,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 30,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 31,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 32,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 33,
+      "name": "Reginald",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/NCAzEvi.jpg"
+    },
+    {
+      "ID": 34,
+      "name": "Crabsquid",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2100,
+      "image": "https://i.imgur.com/KBzDuHM.png"
+    },
+    {
+      "ID": 35,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 39,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 30,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 40,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 41,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 42,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    },
+    {
+      "ID": 43,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    },
+    {
+      "ID": 44,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 45,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 30,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 46,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 47,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 48,
+      "name": "Reginald",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/NCAzEvi.jpg"
+    },
+    {
+      "ID": 49,
+      "name": "Reginald",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/NCAzEvi.jpg"
+    },
+    {
+      "ID": 50,
+      "name": "Jelly Ray",
+      "category": "Uncommon",
+      "size": 190,
+      "sell": 760,
+      "image": "https://i.imgur.com/EF8ufGh.png"
+    },
+    {
+      "ID": 51,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 52,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 53,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 54,
+      "name": "Jelly Ray",
+      "category": "Uncommon",
+      "size": 190,
+      "sell": 760,
+      "image": "https://i.imgur.com/EF8ufGh.png"
+    },
+    {
+      "ID": 55,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 56,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 57,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 58,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 58370,
+      "countdown": 5,
+      "countdownData": 1673189034822,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "22:35:19, 6/1/2023"
+}

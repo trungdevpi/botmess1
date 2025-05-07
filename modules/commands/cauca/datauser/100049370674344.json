@@ -1,0 +1,29 @@
+{
+  "name": "Dương Gia Huy",
+  "ID": "100049370674344",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 10,
+      "countdown": 300,
+      "countdownData": 1673067295144,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 58790,
+      "countdown": 5,
+      "countdownData": 1673845322436,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "10:25:06, 7/1/2023"
+}

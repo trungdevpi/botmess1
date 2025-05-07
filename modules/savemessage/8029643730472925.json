@@ -1,0 +1,162 @@
+{
+    "100018277053087": [
+        {
+            "type": "message",
+            "message": ".resend",
+            "time": "24/10/2024 22:13:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".cmd loadAll",
+            "time": "24/10/2024 22:14:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".money",
+            "time": "24/10/2024 22:15:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".cmd loadAll",
+            "time": "24/10/2024 22:20:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".work",
+            "time": "24/10/2024 22:20:28",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "2",
+            "time": "24/10/2024 22:20:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".tx tài allin",
+            "time": "24/10/2024 22:20:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".taoanhbox",
+            "time": "24/10/2024 22:23:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".ndfb",
+            "time": "24/10/2024 22:26:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "hi",
+            "time": "24/10/2024 22:28:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".antiout",
+            "time": "24/10/2024 22:30:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".cmd loadAll",
+            "time": "24/10/2024 22:32:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".out",
+            "time": "24/10/2024 22:34:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "d",
+            "time": "24/10/2024 22:35:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "24/10/2024 23:14:24",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeHp-jZoWUw22QS-yRg2yZIiTGXlyML-tShMZeXIwv61KKV8VpppwwvG8PUvtZq7fiKbnnO08KVqFsxupQyaAlnY&_nc_ohc=NkpTdblFBIoQ7kNvgF6MWAm&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=AjjUeO3zU3DtvljLjZtpB_-&oh=00_AYBeeX4dsGazhQC3xFj5OyIkC8YM1-1HCnM4BcE_1klgeQ&oe=67204ACB",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": ".",
+            "time": "24/10/2024 23:14:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".box",
+            "time": "24/10/2024 23:14:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".cấm",
+            "time": "24/10/2024 23:15:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".menu",
+            "time": "24/10/2024 23:15:13",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "12",
+            "time": "24/10/2024 23:15:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".anti",
+            "time": "24/10/2024 23:15:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ".anti boxname",
+            "time": "24/10/2024 23:16:07",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "1",
+            "time": "24/10/2024 23:16:16",
+            "attachment": []
+        }
+    ]
+}

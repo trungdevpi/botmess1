@@ -1,0 +1,62 @@
+{
+  "name": "Quang Trường",
+  "ID": "100053245934079",
+  "mainROD": "Titanium Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Sparse Arctic  "
+  },
+  "fishBag": [
+    {
+      "ID": 2,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    },
+    {
+      "ID": 3,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 4,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 5,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 6,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 0,
+      "countdown": 150,
+      "countdownData": 1673079555875,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    }
+  ],
+  "timeRegister": "23:15:49, 6/1/2023"
+}

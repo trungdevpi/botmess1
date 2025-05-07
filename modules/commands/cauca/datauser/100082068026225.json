@@ -1,0 +1,798 @@
+{
+  "name": "Moster Sama",
+  "ID": "100082068026225",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crash Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 160,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 161,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 163,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 166,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 167,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 169,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 170,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 172,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 173,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 176,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 178,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 182,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 183,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 184,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 185,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 186,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 189,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 191,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 193,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 195,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 198,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 199,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 201,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 202,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 203,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 205,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 206,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 208,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 209,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 210,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 211,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 214,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 215,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 216,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 217,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 218,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 219,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 222,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 223,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 224,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 226,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 227,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 228,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 230,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 231,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 232,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 233,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 234,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 235,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 236,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 237,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 238,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 241,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 242,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 243,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 244,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 246,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 247,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 248,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 250,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 251,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 252,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 253,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 254,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 255,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 256,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 257,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 258,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 259,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 260,
+      "name": "Pengling",
+      "category": "Uncommon",
+      "size": 63,
+      "sell": 650,
+      "image": "https://i.imgur.com/Qy0kJT5.png"
+    },
+    {
+      "ID": 261,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 262,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    },
+    {
+      "ID": 263,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    },
+    {
+      "ID": 264,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    },
+    {
+      "ID": 265,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 266,
+      "name": "Chelicerate",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 876500,
+      "image": "https://i.imgur.com/PaeEsyM.png"
+    },
+    {
+      "ID": 267,
+      "name": "Chelicerate",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 876500,
+      "image": "https://i.imgur.com/PaeEsyM.png"
+    },
+    {
+      "ID": 268,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    },
+    {
+      "ID": 269,
+      "name": "Chelicerate",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 876500,
+      "image": "https://i.imgur.com/PaeEsyM.png"
+    },
+    {
+      "ID": 270,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 271,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 272,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 273,
+      "name": "Chelicerate",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 876500,
+      "image": "https://i.imgur.com/PaeEsyM.png"
+    },
+    {
+      "ID": 274,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 275,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 276,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 277,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 278,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 279,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 280,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 281,
+      "name": "Shadow Leviathan",
+      "category": "Legendary",
+      "size": 6000,
+      "sell": 1050700,
+      "image": "https://i.imgur.com/dinzzWr.png"
+    },
+    {
+      "ID": 282,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 283,
+      "name": "Crashfish",
+      "category": "Uncommon",
+      "size": 28,
+      "sell": 350,
+      "image": "https://i.imgur.com/qrU1J3y.png"
+    },
+    {
+      "ID": 284,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 285,
+      "name": "Reginald",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/NCAzEvi.jpg"
+    },
+    {
+      "ID": 286,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 287,
+      "name": "Reginald",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/NCAzEvi.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 56900,
+      "countdown": 5,
+      "countdownData": 1675697517481,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "20:30:20, 5/1/2023"
+}

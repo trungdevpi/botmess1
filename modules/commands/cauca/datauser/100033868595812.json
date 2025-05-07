@@ -1,0 +1,62 @@
+{
+  "name": "Nguyễn Khánh",
+  "ID": "100033868595812",
+  "mainROD": "Light Iron Harpoon",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Blood Kelp Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 1,
+      "name": "Blighter",
+      "category": "Uncommon",
+      "size": 22,
+      "sell": 300,
+      "image": "https://i.imgur.com/ke5jbH3.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 4,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 10,
+      "countdown": 300,
+      "countdownData": 1666858553151,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 100,
+      "countdown": 150,
+      "countdownData": null,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    }
+  ],
+  "timeRegister": "10:00:18, 25/10/2022"
+}

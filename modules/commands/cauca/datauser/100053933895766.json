@@ -1,0 +1,53 @@
+{
+  "name": "Nguyễn Dương",
+  "ID": "100053933895766",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Inactive Lava Zone – Lava Lake"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Sea Dragon Leviathan",
+      "category": "Legendary",
+      "size": 11000,
+      "sell": 1580000,
+      "image": "https://i.imgur.com/iALri8R.png"
+    },
+    {
+      "ID": 2,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 3,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59970,
+      "countdown": 5,
+      "countdownData": 1660487308831,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "17:16:23, 14/8/2022"
+}

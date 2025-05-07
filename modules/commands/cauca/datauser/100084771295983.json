@@ -1,0 +1,29 @@
+{
+  "name": "Lê Duy",
+  "ID": "100084771295983",
+  "mainROD": "Light Iron Harpoon",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Inactive Lava Zone – Lava Lake"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 0,
+      "countdown": 300,
+      "countdownData": 1673072457807,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 50,
+      "countdown": 180,
+      "countdownData": null,
+      "image": "https://i.imgur.com/mptiizn.png"
+    }
+  ],
+  "timeRegister": "21:52:31, 6/1/2023"
+}

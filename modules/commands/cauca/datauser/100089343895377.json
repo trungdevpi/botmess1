@@ -1,0 +1,53 @@
+{
+  "name": "Vann Kiettz",
+  "ID": "100089343895377",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Arctic"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 2,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 3,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1970,
+      "countdown": 15,
+      "countdownData": 1676213411782,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "21:45:19, 12/2/2023"
+}
